@@ -68,7 +68,7 @@ function loadWordOfTheDay() {
         const wordOfTheDay = terms[randomIndex];
         console.log('Selected word:', wordOfTheDay); // Log the selected word
         document.getElementById('dailyWord').innerHTML = 
-            `<strong style="font-size: 1em; color: #6a0dad;">${wordOfTheDay.term}:</strong> <span style="color: #6a0dad; font-size: 0.9em;">${wordOfTheDay.definition}</span>`;
+            `<strong style="font-size: 1.5em; color: #6a0dad;">${wordOfTheDay.term}:</strong> <span style="color: #6a0dad; font-size: 0.9em;">${wordOfTheDay.definition}</span>`;
     } else {
         console.error('No terms available.');
         document.getElementById('dailyWord').textContent = "No terms available.";
