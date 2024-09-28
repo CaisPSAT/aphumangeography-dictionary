@@ -3,19 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Terms - AP Human Geography Dictionary</title>
-    <link rel="stylesheet" href="style.css"> <!-- Link to your CSS file -->
+    <title>All Terms - AP Human Geography</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <div class="container">
         <h1>All AP Human Geography Terms</h1>
-        <a href="index.html">Go Back</a> <!-- Link to go back to the home page -->
-    </header>
 
-    <section id="termList">
-        <ul id="termsContainer"></ul>
-    </section>
+        <!-- Search Bar -->
+        <section class="search-section">
+            <h2>Search</h2>
+            <input type="text" id="searchBar" list="suggestions" placeholder="Search for a term...">
+            <datalist id="suggestions"></datalist>
+            <button id="searchButton">Search</button>
+        </section>
 
-    <script src="script.js"></script> <!-- Same script.js file to handle term loading -->
+        <!-- Terms List -->
+        <ul id="termsContainer">
+            Loading terms...
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
