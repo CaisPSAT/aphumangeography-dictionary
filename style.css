@@ -1,3 +1,4 @@
+/* Same as before, but adjust as needed */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -53,4 +54,8 @@ ul {
 
 li {
     margin-bottom: 10px;
+}
+
+.search-result {
+    margin-top: 20px;
 }
