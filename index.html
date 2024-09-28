@@ -48,17 +48,7 @@
                 console.log('Terms loaded:', terms);
 
                 // Load Word of the Day or display terms depending on the page
-                if (window.location.pathname.includes('index.html') || window.location.pathname === '/') {
-                    loadWordOfTheDay();
-                }
-
-                if (window.location.pathname.includes('terms.html')) {
-                    displayTerms();
-                }
-
-                if (window.location.pathname.includes('search.html')) {
-                    loadSearchResult();
-                }
+                loadWordOfTheDay();
 
                 // Setup search functionality
                 const searchBar = document.getElementById('searchBar');
@@ -120,23 +110,6 @@
             const query = document.getElementById('searchBar').value.toLowerCase();
             localStorage.setItem('searchQuery', query);  // Store the search query for later use
             window.location.href = 'search.html';  // Redirect to search.html
-        }
-
-        // Load the search result on search.html page
-        function loadSearchResult() {
-            const query = localStorage.getItem('searchQuery');  // Retrieve the stored search query
-            const resultContainer = document.getElementById('searchResult');
-            resultContainer.innerHTML = '';  // Clear previous result
-
-            const filteredTerms = terms.filter(term => term.term.toLowerCase() === query);
-
-            if (filteredTerms.length === 0) {
-                resultContainer.innerHTML = 'No Results. Hmm, Check your spelling.';
-            } else {
-                filteredTerms.forEach(term => {
-                    resultContainer.innerHTML = `<strong>${term.term}:</strong> ${term.definition}`;
-                });
-            }
         }
     </script>
 </body>
