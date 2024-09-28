@@ -11,6 +11,9 @@ fetch('terms.json')
     .then(data => {
         terms = data;
 
+        // Log to check if terms are loaded
+        console.log('Terms loaded:', terms);
+
         // Load Word of the Day or display terms depending on the page
         if (window.location.pathname.includes('index.html') || window.location.pathname === '/') {
             loadWordOfTheDay();
