@@ -2,27 +2,33 @@ let terms = [];  // Array to store terms and definitions from the JSON file
 
 // Fetch the terms from the JSON file and initialize the website
 fetch('terms.json')
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Failed to fetch terms.json');
+        }
+        return response.json();
+    })
     .then(data => {
         terms = data;
 
-        // If on index.html or home page, load Word of the Day and set up search
+        // Load Word of the Day or display terms depending on the page
         if (window.location.pathname.includes('index.html') || window.location.pathname === '/') {
-            loadWordOfTheDay();    // Load Word of the Day after fetching terms
+            loadWordOfTheDay();
         }
 
-        // If on terms.html, display all terms
         if (window.location.pathname.includes('terms.html')) {
-            displayTerms();        // Display all terms on the terms.html page
+            displayTerms();
         }
 
-        // Setup the search functionality (for both pages)
+        // Setup search functionality
         document.getElementById('searchBar').addEventListener('input', updateAutocomplete);
         document.getElementById('searchButton').addEventListener('click', searchTerm);
     })
     .catch(error => {
         console.error('Error fetching terms:', error);
-        document.getElementById('dailyWord').textContent = "Error loading terms.";
+        if (document.getElementById('dailyWord')) {
+            document.getElementById('dailyWord').textContent = "Error loading terms.";
+        }
     });
 
 // Function to display all terms (for terms.html)
