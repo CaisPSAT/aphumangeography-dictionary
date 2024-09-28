@@ -1,14 +1,11 @@
 [
     {
-        "term": "Urbanization",
-        "definition": "The process by which cities grow or by which societies become more urban."
-    },
-    {
         "term": "Cultural Diffusion",
-        "definition": "The spread of cultural beliefs and social activities from one group to another."
+        "definition": "The spread of cultural beliefs and activities from one group to another."
     },
     {
-        "term": "Agribusiness",
-        "definition": "The group of industries dealing with agricultural produce and services required in farming."
+        "term": "Demographic Transition",
+        "definition": "The transition from high birth and death rates to lower birth and death rates as a country develops."
     }
+    // Add more terms and definitions here
 ]
