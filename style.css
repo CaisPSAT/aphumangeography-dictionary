@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     background-color: #1e1e1e; /* Darker container background */
     padding: 20px;
-    border-radius: 15px;  /* Rounded corners */
+    border-radius: 15px; /* Rounded corners */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -30,13 +30,13 @@ h1, h2 {
 }
 
 #dailyWord {
-    font-size: 1.2em; /* Adjusted font size for term */
-    color: #6a0dad; /* Updated color to your specified purple */
+    font-size: 1.5em; /* Size for the term */
+    color: #6a0dad; /* Purple color for the term */
 }
 
 #dailyWord span {
     font-size: 0.9em; /* Font size for definition */
-    color: #D3D3D3; /* Ensures definition text is the same purple */
+    color: #D3D3D3; /* Light grey color for the definition */
 }
 
 /* Search section */
