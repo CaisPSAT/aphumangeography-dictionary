@@ -36,7 +36,7 @@ h1, h2 {
 
 #dailyWord span {
     font-size: 0.9em; /* Font size for definition */
-    color: #6a0dad; /* Ensures definition text is the same purple */
+    color: #D3D3D3; /* Ensures definition text is the same purple */
 }
 
 /* Search section */
