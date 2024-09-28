@@ -65,10 +65,12 @@ function loadWordOfTheDay() {
         const randomIndex = Math.floor(Math.random() * terms.length);
         const wordOfTheDay = terms[randomIndex];
         console.log('Selected word:', wordOfTheDay); // Log the selected word
+
+        // Update the HTML to differentiate between the term and definition
         document.getElementById('dailyWord').innerHTML = 
             `<div class="word-of-the-day">
-                <strong id="dailyWordTerm">${wordOfTheDay.term}:</strong>
-                <span id="dailyWordDefinition">${wordOfTheDay.definition}</span>
+                <span class="term">${wordOfTheDay.term}:</span> 
+                <span class="definition">${wordOfTheDay.definition}</span>
             </div>`;
     } else {
         console.error('No terms available.');
