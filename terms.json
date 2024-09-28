@@ -1,14 +1,106 @@
 [
     {
-        "term": "Urbanization",
-        "definition": "The process by which cities grow or by which societies become more urban."
+        "term": "Abrahamic religion (3B)",
+        "definition": "A religion whose followers believe in the prophet Abraham. Abrahamic religions believe that Abraham and his descendants are foundational figures in the establishment of their religion and that their life stories play an important role in spiritual development. The best known Abrahamic religions are Judaism, Christianity and Islam."
     },
     {
-        "term": "Cultural Diffusion",
-        "definition": "The spread of cultural beliefs and social activities from one group to another."
+        "term": "Absolute distance and location (1)",
+        "definition": "The exact location of a place marked with latitude and longitude."
     },
     {
-        "term": "Agribusiness",
-        "definition": "The group of industries dealing with agricultural produce and services required in farming."
+        "term": "Acculturation (3A)",
+        "definition": "Selectively adopts certain customs of the dominant host society in order to advance socioeconomically, while still retaining much of his or her native culture."
+    },
+    {
+        "term": "Activity Spaces (2B)",
+        "definition": "The space within which daily activity occurs."
+    },
+    {
+        "term": "Administered Boundaries (4B)",
+        "definition": "A limit or border of a geographic area under the jurisdiction of some governmental or managerial entity."
+    },
+    {
+        "term": "African City Model (6A)",
+        "definition": "Model based on colonial infrastructure of Sub Saharan Africa, there are three segments that make up the CBD: Colonial, Traditional, and Market Zone."
+    },
+    {
+        "term": "African Union (AU) (4A)",
+        "definition": "The African Union (AU) is a continental body consisting of the 55 member states that make up the countries of the African Continent. It was officially launched in 2002 as a successor to the Organisation of African Unity (OAU, 1963-1999). The 14 main goals focus on such things as achieving or maintaining unity, cooperation, sovereignty, political, social, and economic development within states or between states."
+    },
+    {
+        "term": "Agglomeration (7B)",
+        "definition": "A process involving the clustering or concentrating of people or activities."
+    },
+    {
+        "term": "Aggregation (1)",
+        "definition": "The size of the unit under investigation such as cities, countries, states, or countries."
+    },
+    {
+        "term": "Aging society/population (2A)",
+        "definition": "Societies that have experienced longer average life expectancy and persistently low birth rates that result in an increased average age of its citizens. The UN estimates that the world’s geriatric population (over 60) will reach 2.1 billion by 2050."
+    },
+    {
+        "term": "Agribusiness (5B)",
+        "definition": "General term for the businesses that provide the vast array of goods and services that support the agriculture industry."
+    },
+    {
+        "term": "Agricultural density (2A)",
+        "definition": "Population density as measured by the number of farmers per unit area of arable land."
+    },
+    {
+        "term": "Animal and Plant Domestication (5A)",
+        "definition": "Genetic modification of an animal such that it is rendered more amenable to human control."
+    },
+    {
+        "term": "Animistic Religions (3B)",
+        "definition": "The belief that inanimate objects, such as hills, trees, rocks, rivers, and other elements of the natural landscape, possess souls and can help or hinder human efforts on Earth."
+    },
+    {
+        "term": "Antecedent Boundaries (4B)",
+        "definition": "A political boundary that existed before the cultural landscape emerged and stayed in place while people moved into occupy the surroundings."
+    },
+    {
+        "term": "Anti-natalist/restrictive policies (2A)",
+        "definition": "Government policies designed to reduce the rate of natural increase."
+    },
+    {
+        "term": "Aquaculture (5B)",
+        "definition": "The cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture."
+    },
+    {
+        "term": "Arable (2A)",
+        "definition": "Land that can be used for agriculture."
+    },
+    {
+        "term": "Arctic Council (4B)",
+        "definition": "The leading intergovernmental forum promoting cooperation, coordination and interaction among the Arctic States, Arctic Indigenous communities and other Arctic inhabitants on common Arctic issues, in particular on issues of sustainable development and environmental protection in the Arctic."
+    },
+    {
+        "term": "Area distortion (1)",
+        "definition": "Error resulting from trying to represent the round, nearly spherical earth on a flat plane or map that results in the relative sizes of areas being incorrect. Projections that do not distort areas are called Equal Area projections."
+    },
+    {
+        "term": "Arithmetic density (2A)",
+        "definition": "The number of people per unit area of land."
+    },
+    {
+        "term": "Artifacts (3A)",
+        "definition": "An object made by human beings; often refers to a primitive tool or other relic from an earlier period."
+    },
+    {
+        "term": "Assimilation (3A)",
+        "definition": "The process through which people lose originally differentiating traits, such as dress, speech particularities or mannerisms, when they come into contact with another society or culture."
+    },
+    {
+        "term": "Association of Southeast Asian Nations (ASEAN) (4A)",
+        "definition": "The Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967 in Bangkok, Thailand, as a regional intergovernmental organization comprising 10 countries in Southeast Asia. It promotes intergovernmental cooperation and facilitates economic, political, security, military, educational, and sociocultural integration among its members and other countries in Asia."
+    },
+    {
+        "term": "Asylum-Shelter (2B)",
+        "definition": "Shelter and protection in one state for refugees from another state."
+    },
+    {
+        "term": "Autonomous region (4A)",
+        "definition": "An autonomous region is a subdivision or dependent territory of a country that has a degree of self-governance or autonomy from an external authority. More simply, autonomous regions are sections of a nation that have a degree of independence. It is typical for these regions to be geographically distant from the country or to be populated by a national minority."
     }
 ]
