@@ -3,25 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Terms - AP Human Geography</title>
+    <title>Search Result</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>All AP Human Geography Terms</h1>
+        <h1>Search Result</h1>
 
-        <!-- Search Bar -->
-        <section class="search-section">
-            <h2>Search</h2>
-            <input type="text" id="searchBar" list="suggestions" placeholder="Search for a term...">
-            <datalist id="suggestions"></datalist>
-            <button id="searchButton">Search</button>
+        <!-- Search Result Section -->
+        <section class="search-result">
+            <p>Here are the results for your search:</p>
+            <p id="searchResult">Loading result...</p>
         </section>
 
-        <!-- Terms List -->
-        <ul id="termsContainer">
-            Loading terms...
-        </ul>
+        <!-- Back to Home Button -->
+        <section class="back-home-section">
+            <button onclick="window.location.href='index.html'">Back to Home</button>
+        </section>
     </div>
 
     <script src="script.js"></script>
