@@ -25,8 +25,16 @@ fetch('terms.json')
         }
 
         // Setup search functionality
-        document.getElementById('searchBar').addEventListener('input', updateAutocomplete);
-        document.getElementById('searchButton').addEventListener('click', redirectToSearch);
+        const searchBar = document.getElementById('searchBar');
+        const searchButton = document.getElementById('searchButton');
+
+        if (searchBar) {
+            searchBar.addEventListener('input', updateAutocomplete);
+        }
+
+        if (searchButton) {
+            searchButton.addEventListener('click', redirectToSearch);
+        }
     })
     .catch(error => {
         console.error('Error fetching terms:', error);
@@ -48,10 +56,14 @@ function displayTerms() {
 
 // Function to load the Word of the Day (for index.html)
 function loadWordOfTheDay() {
-    const randomIndex = Math.floor(Math.random() * terms.length);
-    const wordOfTheDay = terms[randomIndex];
-    document.getElementById('dailyWord').innerHTML = 
-        `<strong style="font-size: 1.5em; color: #2a9d8f;">${wordOfTheDay.term}:</strong> ${wordOfTheDay.definition}`;
+    if (terms.length > 0) {
+        const randomIndex = Math.floor(Math.random() * terms.length);
+        const wordOfTheDay = terms[randomIndex];
+        document.getElementById('dailyWord').innerHTML = 
+            `<strong style="font-size: 1.5em; color: #2a9d8f;">${wordOfTheDay.term}:</strong> ${wordOfTheDay.definition}`;
+    } else {
+        document.getElementById('dailyWord').textContent = "No terms available.";
+    }
 }
 
 // Function to update autocomplete suggestions based on input
