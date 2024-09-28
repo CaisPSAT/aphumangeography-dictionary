@@ -17,13 +17,9 @@ fetch('terms.json')
         // Load Word of the Day or display terms depending on the page
         if (window.location.pathname.includes('index.html') || window.location.pathname === '/') {
             loadWordOfTheDay();
-        }
-
-        if (window.location.pathname.includes('terms.html')) {
+        } else if (window.location.pathname.includes('terms.html')) {
             displayTerms();
-        }
-
-        if (window.location.pathname.includes('search.html')) {
+        } else if (window.location.pathname.includes('search.html')) {
             loadSearchResult();
         }
 
@@ -41,14 +37,19 @@ fetch('terms.json')
     })
     .catch(error => {
         console.error('Error fetching terms:', error);
-        if (document.getElementById('dailyWord')) {
-            document.getElementById('dailyWord').textContent = "Error loading terms.";
+        const dailyWordElement = document.getElementById('dailyWord');
+        if (dailyWordElement) {
+            dailyWordElement.textContent = "Error loading terms.";
         }
     });
 
 // Function to display all terms (for terms.html)
 function displayTerms() {
     const container = document.getElementById('termsContainer');
+    if (!container) {
+        console.error('Terms container not found.');
+        return; // Exit if the container doesn't exist
+    }
     container.innerHTML = '';  // Clear the list first
     terms.forEach(term => {
         const li = document.createElement('li');
@@ -71,7 +72,6 @@ function loadWordOfTheDay() {
         document.getElementById('dailyWord').textContent = "No terms available.";
     }
 }
-
 
 // Function to update autocomplete suggestions based on input
 function updateAutocomplete() {
@@ -105,6 +105,10 @@ function redirectToSearch() {
 function loadSearchResult() {
     const query = localStorage.getItem('searchQuery');  // Retrieve the stored search query
     const resultContainer = document.getElementById('searchResult');
+    if (!resultContainer) {
+        console.error('Search result container not found.');
+        return; // Exit if the container doesn't exist
+    }
     resultContainer.innerHTML = '';  // Clear previous result
 
     const filteredTerms = terms.filter(term => term.term.toLowerCase() === query);
