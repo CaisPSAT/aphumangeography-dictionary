@@ -59,15 +59,19 @@ function displayTerms() {
 
 // Function to load the Word of the Day (for index.html)
 function loadWordOfTheDay() {
+    console.log('Loading Word of the Day...');
     if (terms.length > 0) {
         const randomIndex = Math.floor(Math.random() * terms.length);
         const wordOfTheDay = terms[randomIndex];
+        console.log('Selected word:', wordOfTheDay); // Log the selected word
         document.getElementById('dailyWord').innerHTML = 
             `<strong style="font-size: 1.5em; color: #2a9d8f;">${wordOfTheDay.term}:</strong> ${wordOfTheDay.definition}`;
     } else {
+        console.error('No terms available.');
         document.getElementById('dailyWord').textContent = "No terms available.";
     }
 }
+
 
 // Function to update autocomplete suggestions based on input
 function updateAutocomplete() {
