@@ -46,7 +46,8 @@ function searchTerm() {
 function loadWordOfTheDay() {
     const randomIndex = Math.floor(Math.random() * terms.length);
     const wordOfTheDay = terms[randomIndex];
-    document.getElementById('dailyWord').innerHTML = `<strong>${wordOfTheDay.term}:</strong> ${wordOfTheDay.definition}`;
+    document.getElementById('dailyWord').innerHTML = 
+        `<strong style="font-size: 1.5em; color: #2a9d8f;">${wordOfTheDay.term}:</strong> ${wordOfTheDay.definition}`;
 }
 
 // Add event listener to the search button to trigger the search
