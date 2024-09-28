@@ -20,9 +20,13 @@ fetch('terms.json')
             displayTerms();
         }
 
+        if (window.location.pathname.includes('search.html')) {
+            loadSearchResult();
+        }
+
         // Setup search functionality
         document.getElementById('searchBar').addEventListener('input', updateAutocomplete);
-        document.getElementById('searchButton').addEventListener('click', searchTerm);
+        document.getElementById('searchButton').addEventListener('click', redirectToSearch);
     })
     .catch(error => {
         console.error('Error fetching terms:', error);
@@ -71,21 +75,26 @@ function updateAutocomplete() {
     }
 }
 
-// Function to search for a term and display it (for both pages)
-function searchTerm() {
+// Redirect to search result page
+function redirectToSearch() {
     const query = document.getElementById('searchBar').value.toLowerCase();
-    const container = document.getElementById('termsContainer');
-    container.innerHTML = '';  // Clear the list
+    localStorage.setItem('searchQuery', query);  // Store the search query for later use
+    window.location.href = 'search.html';  // Redirect to search.html
+}
+
+// Load the search result on search.html page
+function loadSearchResult() {
+    const query = localStorage.getItem('searchQuery');  // Retrieve the stored search query
+    const resultContainer = document.getElementById('searchResult');
+    resultContainer.innerHTML = '';  // Clear previous result
 
     const filteredTerms = terms.filter(term => term.term.toLowerCase() === query);
-    
+
     if (filteredTerms.length === 0) {
-        container.innerHTML = '<li>No Results. Hmm, Check your spelling.</li>';
+        resultContainer.innerHTML = 'No Results. Hmm, Check your spelling.';
     } else {
         filteredTerms.forEach(term => {
-            const li = document.createElement('li');
-            li.innerHTML = `<strong>${term.term}:</strong> ${term.definition}`;
-            container.appendChild(li);
+            resultContainer.innerHTML = `<strong>${term.term}:</strong> ${term.definition}`;
         });
     }
 }
