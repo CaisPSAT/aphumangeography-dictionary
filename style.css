@@ -1,8 +1,8 @@
 /* Global styles for dark mode and rounded corners */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #121212;
-    color: #ffffff;
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* White text */
     margin: 0;
     padding: 20px;
 }
@@ -10,7 +10,7 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #1e1e1e;
+    background-color: #1e1e1e; /* Darker container background */
     padding: 20px;
     border-radius: 15px;  /* Rounded corners */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
@@ -18,26 +18,26 @@ body {
 
 /* Heading colors */
 h1, h2 {
-    color: #66fcf1;
+    color: #d19ae2; /* Light purple for headings */
 }
 
 /* Word of the day style */
 .word-of-the-day {
     margin-bottom: 20px;
-    background-color: #2b2b2b;
+    background-color: #2b2b2b; /* Background for word of the day */
     padding: 15px;
     border-radius: 10px;
 }
 
 #dailyWord {
     font-size: 1.5em;
-    color: #f0f0f0;
+    color: #f0f0f0; /* Light grey text */
 }
 
 /* Search section */
 .search-section {
     margin-bottom: 20px;
-    background-color: #2b2b2b;
+    background-color: #2b2b2b; /* Background for search section */
     padding: 15px;
     border-radius: 10px;
 }
@@ -46,23 +46,23 @@ h1, h2 {
     width: 70%;
     padding: 10px;
     font-size: 1em;
-    border: 2px solid #66fcf1;
+    border: 2px solid #9918cc; /* Main purple for search bar border */
     border-radius: 5px;
-    background-color: #1e1e1e;
-    color: #ffffff;
+    background-color: #1e1e1e; /* Dark background for input */
+    color: #ffffff; /* White text for input */
 }
 
 #searchButton {
     padding: 10px 15px;
-    background-color: #66fcf1;
-    color: #1e1e1e;
+    background-color: #9918cc; /* Main purple for search button */
+    color: #ffffff; /* White text for button */
     border: none;
     cursor: pointer;
     border-radius: 5px;
 }
 
 #searchButton:hover {
-    background-color: #45a29e;
+    background-color: #b358d2; /* Lighter purple on hover */
 }
 
 /* All Terms Button */
@@ -72,15 +72,15 @@ h1, h2 {
 
 button {
     padding: 10px 20px;
-    background-color: #66fcf1;
-    color: #1e1e1e;
+    background-color: #9918cc; /* Main purple for buttons */
+    color: #ffffff; /* White text for buttons */
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #45a29e;
+    background-color: #b358d2; /* Lighter purple on hover */
 }
 
 /* Back Button */
@@ -97,14 +97,14 @@ ul {
 li {
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #2b2b2b;
+    background-color: #2b2b2b; /* Background for list items */
     border-radius: 10px;
 }
 
 /* Search Result */
 .search-result {
     margin-top: 20px;
-    background-color: #2b2b2b;
+    background-color: #2b2b2b; /* Background for search results */
     padding: 15px;
     border-radius: 10px;
 }
