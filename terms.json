@@ -102,5 +102,777 @@
     {
         "term": "Autonomous region (4A)",
         "definition": "An autonomous region is a subdivision or dependent territory of a country that has a degree of self-governance or autonomy from an external authority. More simply, autonomous regions are sections of a nation that have a degree of independence. It is typical for these regions to be geographically distant from the country or to be populated by a national minority."
+    },
+    {
+        "term": "Baby Boomers (2A)",
+        "definition": "Individuals born post WWII during a period in which the global RNI was relatively high and mortality decreased (1946-1964)."
+    },
+    {
+        "term": "Baby Bust (2A)",
+        "definition": "A period from the 1960s and 1970s in which a drop in fertility followed the baby boom. The drop in fertility is seen as a result of women seeking education and jobs outside of the home; a temporary marked decrease in the birth rate."
+    },
+    {
+        "term": "Bid-Rent Theory (5A)",
+        "definition": "Geographical economic theory that refers to how the price and demand on real estate changes as the distance towards the Central Business District (CBD) increases."
+    },
+    {
+        "term": "Blockbusting (6B)",
+        "definition": "Rapid change in the racial composition of residential blocks in American cities that occurs when real estate agents and others stir up fears of neighborhood decline after encouraging people of color to move to previously white neighborhoods. In the resulting outmigration, real estate agents profit through the turnover of properties."
+    },
+    {
+        "term": "Boomburb (6A)",
+        "definition": "A large, rapidly growing city in the United States that remains essentially suburban in character, even as it reaches populations more typical of urban core cities."
+    },
+    {
+        "term": "Boserup Theory (2A)",
+        "definition": "Her theory of agricultural intensification posits that population change drives the intensity of agricultural production. Meaning, humans will adapt & innovate agricultural practices that sustain their population. Her position countered the Malthusian theory that agricultural methods determine population via limits on food supply."
+    },
+    {
+        "term": "Boundary (4B)",
+        "definition": "A vertical plane that cuts through the rocks below and the airspace above, dividing one state’s territory from another."
+    },
+    {
+        "term": "Brain Drain (2B)",
+        "definition": "The emigration of highly trained or intelligent people from a particular country."
+    },
+    {
+        "term": "Break of bulk point (7A)",
+        "definition": "A location along a transport route where goods must be transferred from one carrier to another."
+    },
+    {
+        "term": "Brownfield (6B)",
+        "definition": "Industrial land or property abandoned because of the presence or potential to be a hazardous waste, pollutant or contaminant."
+    },
+    {
+        "term": "Buddhism (3B)",
+        "definition": "Buddhism is the fourth largest religion, with about 350 million adherents. Buddhism was founded in Northern India by the first known Buddha, Siddhartha Gautama. The core Buddhist belief is reincarnation. In this concept, people are reborn after dying. One can attain Nirvana if one releases their attachment to desire and self. Today, Buddhism is a majority faith in Southeast Asia, China, and Japan."
+    },
+    {
+        "term": "Burgess Concentric Zone Model (6A)",
+        "definition": "A structural model of the American central city that describes expansion in five concentric land-use rings arranged around the central business district."
+    },
+    {
+        "term": "Capitalism (4B)",
+        "definition": "An economic model wherein people, corporations, and states produce goods and exchange them on the world market, with the goal of achieving profit."
+    },
+    {
+        "term": "Carrying Capacity (2A)",
+        "definition": "The number of people that can be supported by the amount of food, water and other resources in the area."
+    },
+    {
+        "term": "Carrying Capacity (5B)",
+        "definition": "The largest number of people that the environment of a particular area can sustainably support."
+    },
+    {
+        "term": "Cartography (1)",
+        "definition": "The science of making maps."
+    },
+    {
+        "term": "Caste System (3B)",
+        "definition": "The strict social segregation of people—specifically in India's Hindu society—on the basis of ancestry and occupation."
+    },
+    {
+        "term": "Census (6B)",
+        "definition": "An official enumeration of the population, with details as to age, sex, occupation, etc. Began in Rome for taxation purposes. Happens every 10 years in the US."
+    },
+    {
+        "term": "Census Data (1)",
+        "definition": "A periodic and official count of a country's population. A census also involves collecting, compiling, and publishing demographic, economic, and social data of a country. In the United States, a census is performed every 10 years (2010, 2020, etc.)."
+    },
+    {
+        "term": "Central Business District (6B)",
+        "definition": "The downtown heart of a central city; is marked by high land values, a concentration of business and commerce, and the clustering of the tallest buildings."
+    },
+    {
+        "term": "Centrifugal Forces (4A)",
+        "definition": "Centrifugal forces are forces within a state that divide the people, while centripetal forces are forces within a state that unify the people."
+    },
+    {
+        "term": "Centripetal Forces (4A)",
+        "definition": "Centripetal forces are forces within a state that unify the people."
+    },
+    {
+        "term": "Chain Migration (2B)",
+        "definition": "Pattern of migration that develops when migrants move along and through kinship links (i.e. one migrant settles in a place and then writes, calls, or communicates through others to describe this place to family and friends who in turn then migrate there)."
+    },
+    {
+        "term": "Child Mortality Rate (CMR) (2A)",
+        "definition": "A figure that describes the number of children that die between the first and fifth years of their lives in a given population."
+    },
+    {
+        "term": "Choke Points (4A)",
+        "definition": "Choke points are strategic narrow routes providing passage through or to another region. Geographical features on land such as a valley or bridge are considered choke points; at sea, features such as a strait. Passing through means a force/group is at a disadvantage compared to the controlling power."
+    },
+    {
+        "term": "Christaller’s Central Place Theory (6B)",
+        "definition": "Theory proposed by Walter Christaller that explains how and where central places in the urban hierarchy should be functionally and spatially distributed with respect to one another."
+    },
+    {
+        "term": "Christianity (3B)",
+        "definition": "Christianity is the largest universalizing religion, both in area and in number, with about two billion adherents. Founded on the teachings of Jesus, Christianity is monotheistic, believing that God is a Trinity and Jesus Christ is the Son of God. The three main branches of Christianity are Catholics, Orthodox, and Protestants. Roman Catholics are predominant in Southwest Europe and Latin America, Protestants in Northwest Europe and North America, and Orthodox in Eastern Europe. Eastern Orthodoxy is the largest single religious faith in Greece, Cyprus, and Russia."
+    },
+    {
+        "term": "Climate (2A)",
+        "definition": "The average course or condition of the weather at a place usually over a long period of years as exhibited by temperature, wind velocity, and precipitation."
+    },
+    {
+        "term": "Climate Change (6B)",
+        "definition": "A change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels."
+    },
+    {
+        "term": "Climatic Regions (5A)",
+        "definition": "Areas of the world with similar climatic characteristics. Notable types for agricultural production are: Mediterranean, tropical, and temperate (subtropical and humid continental)."
+    },
+    {
+        "term": "Clustered Settlement (5A)",
+        "definition": "(Nucleated village) an agricultural-based community in which a number of families live in close proximity to each other, with fields surrounding the collection of houses and farm buildings."
+    },
+    {
+        "term": "Clustering/Agglomerate (1)",
+        "definition": "An observed pattern in which objects, phenomenon or traits are close together, typically implying that they are organized in a dense manner."
+    },
+    {
+        "term": "Colonialism (3A)",
+        "definition": "An attempt by one country to establish settlements and to impose its political, economic, and cultural principles in another territory."
+    },
+    {
+        "term": "Colonization (2B)",
+        "definition": "Physical process whereby the colonizer takes over another place, putting its own government in charge and either moving its own people into the place or bringing in indentured outsiders to gain control of the people and the land."
+    },
+    {
+        "term": "Columbian Exchange (5A)",
+        "definition": "The exchange of plants, animals, diseases, and technologies between the Americas and the rest of the world following Columbus's voyages."
+    },
+    {
+        "term": "Commercial Agriculture (5B)",
+        "definition": "Term used to describe large scale farming and ranching operations that employ vast land bases, large mechanized equipment, factory-type labor forces, and the latest technology."
+    },
+    {
+        "term": "Commodity (5B)",
+        "definition": "A raw material or primary agricultural product that can be bought and sold, such as copper or coffee."
+    },
+    {
+        "term": "Commodity Chain (5B)",
+        "definition": "A series of links connecting the many places of production and distribution and resulting in a commodity that is then exchanged on the world market."
+    },
+    {
+        "term": "Commodity Dependence (7A)",
+        "definition": "When peripheral economies rely too heavily on the export of raw materials, which places them on unequal terms of exchange with more-developed countries that export higher-value goods."
+    },
+    {
+        "term": "Community-Supported Agriculture (CSA Model) (5B)",
+        "definition": "A system that connects the producer and consumers within the food system more closely by allowing the consumer to subscribe to the harvest of a certain farm or group of farms."
+    },
+    {
+        "term": "Comparative Advantage (7B)",
+        "definition": "An economic concept related to Free Trade that says a country should specialize in certain products for export when they hold an advantage in producing those products, and import other products in which they do not have an advantage as compared to other countries."
+    },
+    {
+        "term": "Complementary Advantage (7B)",
+        "definition": "When two places are said to exhibit a degree of complementarity if each offers something to the other that it needs or wants. At a basic level, it could be that one community produces things that another place is willing to purchase."
+    },
+    {
+        "term": "Confucianism (3B)",
+        "definition": "A philosophy of ethics, education, and public service and traditionally thought of as one of the core elements of Chinese culture."
+    },
+    {
+        "term": "Consequent Boundaries (4B)",
+        "definition": "A boundary line that coincides with some cultural divide, such as religion or language."
+    },
+    {
+        "term": "Contagious Diffusion (3A)",
+        "definition": "The rapid and widespread diffusion throughout a population as a result of contact."
+    },
+    {
+        "term": "Contraception (2A)",
+        "definition": "Deliberate prevention of conception or impregnation. Methods designed to prevent pregnancy include condoms, birth control pills, IUDs, family planning, and sterilization."
+    },
+    {
+        "term": "Core Areas (4B)",
+        "definition": "Processes that incorporate higher levels of education, higher salaries and more technology."
+    },
+    {
+        "term": "Creolization (3B)",
+        "definition": "A language that began as a pidgin language but later becomes adopted as the mother tongue by a people."
+    },
+    {
+        "term": "Crude Birth Rate (CBR) (2A)",
+        "definition": "The amount of births per year per 1000 people in population."
+    },
+    {
+        "term": "Crude Death Rate (CDR) (2A)",
+        "definition": "The amount of deaths per year per 1000 people in population."
+    },
+    {
+        "term": "Cultural Cohesion (4A)",
+        "definition": "Cultural cohesion refers to the 'togetherness' of a group based on their shared cultural traits"
+    },
+    {
+        "term": "Cultural convergence (3A)", 
+        "definition": "Occurs when different cultures exchange ideas and become more similar. Cultures become more alike as they increasingly share technology and organizational structures in a modern world united by improved transportation and communication."
+    },
+    {
+        "term": "Cultural divergence (3A)", 
+        "definition": "Occurs when different cultural influences cause an area to divide into separate parts. Cultures become increasingly dissimilar with time often due to restrictions from outside cultural influences."
+    },
+    {
+        "term": "Cultural landscape (3A)", 
+        "definition": "Modifications to the environment by humans, including the built environment and agricultural systems, that reflect aspects of their culture. The visible imprint of humans on the landscape."
+    },
+    {
+        "term": "Cultural relativism (3A)", 
+        "definition": "The practice of judging another culture by its own standards (putting aside bias and personal cultural preferences)."
+    },
+    {
+        "term": "Culture (3A)", 
+        "definition": "The sum total of the knowledge, attitudes, and habitual behavior patterns shared and transmitted by the members of a society."
+    },
+    {
+        "term": "Custom (3A)", 
+        "definition": "Practice routinely followed by a group of people."
+    },
+    {
+        "term": "Cyclic Movement (2B)", 
+        "definition": "Movement—for example, nomadic migration that has a closed route and is repeated annually or seasonally."
+    },
+    {
+        "term": "Debt Crisis (7B)", 
+        "definition": "A situation in which a government loses the ability of paying back its governmental debt. When the expenditures of a government are more than its tax revenues for a prolonged period."
+    },
+    {
+        "term": "Decentralization (6A)", 
+        "definition": "The transfer of authority from central to local government."
+    },
+    {
+        "term": "Defined boundaries (4B)", 
+        "definition": "Boundaries defined by a legal document or treaty."
+    },
+    {
+        "term": "Delimited Boundaries (4B)", 
+        "definition": "Translation of the written terms of a boundary treaty (the definition) into an official cartographic representation."
+    },
+    {
+        "term": "Demarcated boundaries (4B)", 
+        "definition": "A political boundary marked on the physical landscape by means of barriers, fences, signs, etc."
+    },
+    {
+        "term": "Demilitarized zones (4A)", 
+        "definition": "Demilitarized zones are areas in which treaties or agreements between nations, military powers, or contending groups forbid military installations, activities, or personnel, often serving as the boundary or border between competing states."
+    },
+    {
+        "term": "Democracy (4B)", 
+        "definition": "Government based on the principle that the people are the ultimate sovereign and have the final say over what happens within the state."
+    },
+    {
+        "term": "Democratization (4B)", 
+        "definition": "The transition to a more democratic."
+    },
+    {
+        "term": "Demographic Momentum (2A)", 
+        "definition": "Tendency for a population to continue to grow despite restrictive or anti-natalist policies or societal fertility decline because of the large number of individuals in their childbearing years replacing a less numerous number of individuals in their adult years."
+    },
+    {
+        "term": "Demographic Transition Model (DTM) (2A)", 
+        "definition": "A model that describes a country’s demographic change over time as it develops into an industrialized economic system. Often infers development and societal change."
+    },
+    {
+        "term": "Demography (2A)", 
+        "definition": "From Ancient Greek δῆμος (dēmos) meaning 'the people', and -γράφω (graphō) meaning 'writing', it is the statistical study of human populations. Demography encompasses the study of the size, structure, and distribution of these populations, and spatial or temporal changes in them in response to birth, migration, aging, and death."
+    },
+    {
+        "term": "Dependency Ratio (2A)", 
+        "definition": "The percent of people in non-working ages (under 15 or over 65) divided by the number of working age people (15-65). Ratios can imply a degree of social or governmental stress to provide for the needs of either the old or the young."
+    },
+    {
+        "term": "Dependency Theory (7A)", 
+        "definition": "The notion that resources flow from a 'periphery' of poor and underdeveloped states to a 'core' of wealthy states, enriching the latter at the expense of the former."
+    },
+    {
+        "term": "Development (2A)", 
+        "definition": "Refers to the standard of living and the quality of life of a society's human inhabitants. Development can be inferred from the economic, social technological conditions of a country."
+    },
+    {
+        "term": "Devolution (4A)", 
+        "definition": "Devolution is the delegation of powers from the central government of a sovereign state to govern at a subnational level, such as a regional or local level. Devolved territories have the power to make legislation relevant to the area, thus granting them a higher level of autonomy."
+    },
+    {
+        "term": "Dialects (3B)", 
+        "definition": "Local or regional characteristics of a language. In addition to pronunciation variation, has distinctive grammar and vocabulary."
+    },
+    {
+        "term": "Diffusion route (3A)", 
+        "definition": "The spatial trajectory through which cultural traits or other phenomena spread; the pattern by which cultural traits spread across the landscape."
+    },
+    {
+        "term": "Disamenity sector/ Disamenity Zones (6B)", 
+        "definition": "The very poorest parts of cities that in extreme cases are not even connected to regular city services and are controlled by gangs or drug lords."
+    },
+    {
+        "term": "Dispersal (1)", 
+        "definition": "Observed pattern in which objects, phenomenon or traits move away from each other or from their source."
+    },
+    {
+        "term": "Dispersed Settlement (5A)", 
+        "definition": "Characterized by farmers living on individual farms isolated from neighbors rather than alongside other farmers in settlements."
+    },
+    {
+        "term": "Distance Decay (1)", 
+        "definition": "The effect of distance on cultural or spatial interactions. The distance decay effect states that the interaction between two entities declines as the distance between them increases."
+    },
+    {
+        "term": "Distortion (1)", 
+        "definition": "Error resulting from trying to represent the round, nearly spherical earth on a flat plane or map. Distortion leads to inaccuracy in one or a combination of the following factors; Shape, Size, Distance and Direction."
+    },
+    {
+        "term": "Doubling Time (2A)", 
+        "definition": "The time required for a population to double in size. We can find exponential growth by using the 'Rule of 70' or dividing 70 by the growth rate (r). For example, 70 / and RNI of 2.14 = just over 32 years."
+    },
+    {
+        "term": "Ecological Footprint (6B)", 
+        "definition": "The impact of human activities measured in terms of the area of biologically productive land and water required to produce the goods consumed and services necessary to support a particular lifestyle."
+    },
+    {
+        "term": "Economic restructuring (7B)", 
+        "definition": "Changes in the constituent parts of an economy."
+    },
+    {
+        "term": "Economics of scale (4B)", 
+        "definition": "The reduction in the per unit cost of production as the volume of production increases."
+    },
+    {
+        "term": "Ecotourism (7B)", 
+        "definition": "Tourists experience nature and the environment in a sustainable way that benefits the local economy. Developing regions try to develop this industry."
+    },
+    {
+        "term": "Edge City (6A)", 
+        "definition": "A term introduced by American journalist Joel Garreau in order to describe the shifting focus of urbanization in the United States away from the Central Business District (CBD) toward the new loci of economic activity at the urban fringe. These cities are characterized by extensive amounts of office and retail space, few residential areas, and modern buildings (less than 30 years old)."
+    },
+    {
+        "term": "Ehrlich Theory (2A)", 
+        "definition": "Predicted that in the latter part of the 20th century (70s-80s and beyond) the world would face severe consequences of population growth. Ehrlich predicted worldwide famines and called for countries to adopt severe restrictive population policies."
+    },
+    {
+        "term": "Elevation (1)", 
+        "definition": "A defined height above or below sea level and one of the main factors of climate. As the elevation increases, the temperature drops at an average rate of 3.6 degrees Fahrenheit per 1,000 feet."
+    },
+    {
+        "term": "Environmental Determinism (1)", 
+        "definition": "The theory that the climate and the physical landscape of an area greatly affect the behavior and culture of the people living there."
+    },
+    {
+        "term": "Epidemiological Transition Model (2A)", 
+        "definition": "A model that demonstrates how less developed countries tend to be more likely to die from communicable diseases (flu, tuberculosis, rabies, measles, HIV/AIDS), while more developed countries tend to be more likely to die from lifestyle related chronic diseases (diabetes, obesity, heart disease, hypertension)."
+    },
+    {
+        "term": "Equitable Infrastructure Development (4B)", 
+        "definition": "An approach to infrastructural development that attempts to ensure all regions of a country have a chance to develop economically through the equitable distribution of infrastructure. Equitable infrastructure development attempts to avoid uneven development."
+    },
+    {
+        "term": "Established territorial seas/United Nations Convention on the Law of the Sea (UNCLOS) (4B)", 
+        "definition": "A Code of maritime law approved by the UN in 1982 that authorizes, among other provisions, territorial waters extending 12 nautical miles from shore and 200 nautical mile wide exclusive economic zones."
+    },
+    {
+        "term": "Ethnic Cleansing (3B)", 
+        "definition": "A process in which a more powerful ethnic group forcibly removes a less powerful one in order to create an ethnically homogeneous region."
+    },
+    {
+        "term": "Ethnic neighborhoods (3A)", 
+        "definition": "A neighborhood, typically situated in a larger metropolitan city and constructed by a group, in which a cultural group can live in close proximity to each other and practice their customs. Often form as a result of chain migration and kinship links."
+    },
+    {
+        "term": "Ethnic religions (3B)", 
+        "definition": "A religion that is particular to one, culturally distinct, group of people. Adherents do not actively seek converts through evangelism or missionary work."
+    },
+    {
+        "term": "Ethnic separatism (4A)", 
+        "definition": "Ethnic separatism refers to when an ethnic group desires to separate from a larger group based on cultural and linguistic differences. While it often refers to full political secession, separatist groups may seek nothing more than greater autonomy."
+    },
+    {
+        "term": "Ethnicity (3A)", 
+        "definition": "Affiliation or identity within a group of people bound by common ancestry and culture; people who identify as having shared cultural traits and traditions of a particular hearth."
+    },
+    {
+        "term": "Ethnocentrism (3A)", 
+        "definition": "A cultural or ethnic bias in which an individual views and judges other cultures from the perspective of his or her own group; establishing the in-group as archetypal and evaluating all other groups with reference to his or her own culture."
+    },
+    {
+        "term": "Ethnonationalism (4A)", 
+        "definition": "Ethnonationalism is a type of nationalism that defines the nation in terms of a shared ethnicity. It often manifests in the assimilation of minority ethnic groups into the dominant group."
+    },
+    {
+        "term": "Eugenic Population Policies (2A)", 
+        "definition": "Government policies designed to favor one racial sector over others."
+    },
+    {
+        "term": "European Union (EU) (4A)", 
+        "definition": "The European Union (EU) is an international organization comprising 28 European countries and governing common economic, social, and security policies. It evolved from the European Coal and Steel Community (1951) and was created in full by the Maastricht Treaty (1993). The EU is designed to enhance European political and economic integration by creating a single currency (the euro), a unified foreign and security policy, common citizenship rights, and advancing cooperation in immigration, asylum, and judicial affairs."
+    },
+    {
+        "term": "Exclusive Economic Zones (4B)", 
+        "definition": "An area (usually 370 km, 200 nm) from the shore in which a state has rights to explore, exploit, and manage natural resources in the seas."
+    },
+    {
+        "term": "Expansion diffusion (3A)", 
+        "definition": "The spread of a feature or trend throughout a population in a way that the number of those influenced becomes continuously larger. Includes contagious, hierarchical, and stimulus diffusion."
+    },
+    {
+        "term": "Export Processing Zones (7B)", 
+        "definition": "Zones established by many countries in the periphery and semi-periphery where they offer favorable tax, regulatory, and trade arrangements to attract foreign trade and investment."
+    },
+    {
+        "term": "Extensive Farming (5A)", 
+        "definition": "An agricultural economy that uses fewer inputs of capital and paid labor relative to the amount of space being used; labor inputs and machinery are low in commercial agriculture, while in subsistence agriculture, labor inputs are higher with minimal amounts of machinery."
+    },
+    {
+        "term": "Exurb (6A)", 
+        "definition": "An exurb is an area outside the typically denser inner suburban area of a metropolitan area, which has an economic and commuting connection to the metro area, low housing density, and growth."
+    },
+    {
+        "term": "Fair Trade (5B)", 
+        "definition": "Labeling products fair trade tells the consumer that by purchasing that product producers get a fair price for their goods."
+    },
+    {
+        "term": "Federal States (4B)", 
+        "definition": "A union of partially self-governing provinces, states, or other regions under a central federal government. The central government represents the various entities within a state yet allows these entities to have their own laws and policies."
+    },
+    {
+        "term": "Fertility (2A)", 
+        "definition": "The ability to conceive and bear children. Also short for the birthrate of a population."
+    },
+    {
+        "term": "Field observation (1)", 
+        "definition": "The study of geography by visiting places and observing the people that live there and how they react with the changes there. Field observations include the collection of data concerning people, cultures, and natural environments."
+    },
+    {
+        "term": "First Agricultural Revolution (5A)", 
+        "definition": "Dating back 10,000 years, time period in which plant domestication and animal domestication was achieved."
+    },
+    {
+        "term": "First Urban Revolution (6A)", 
+        "definition": "The innovation of the city, which occurred independently in five separate hearths."
+    },
+    {
+        "term": "Flows (1)", 
+        "definition": "The measured pattern of a phenomenon from one place to another. Flow data typically captures the number of people entering and exiting (inflow and outflow) places over a specific period of time."
+    },
+    {
+        "term": "Folk Culture (3A)", 
+        "definition": "Culture traditionally practiced by a small, homogeneous, rural group living in relative isolation from other groups."
+    },
+    {
+        "term": "Food Deserts (5B)", 
+        "definition": "An area that has limited access to affordable and nutritious food, in contrast with an area with higher access to supermarkets or vegetable shops with fresh foods, which is called a food oasis."
+    },
+    {
+        "term": "Food Insecurity (5B)", 
+        "definition": "Refers to a lack of available financial resources for food and the disruption of food intake or eating patterns because of lack of money and other resources."
+    },
+    {
+        "term": "Forced Migration (2B)", 
+        "definition": "Human migration flows in which the movers have no choice but to relocate."
+    },
+    {
+        "term": "Fordist (7B)", 
+        "definition": "A highly organized and specialized system for organizing industrial production and labor based off of Henry Ford."
+    },
+    {
+        "term": "Formal economy (7A)", 
+        "definition": "The legal economy that governments tax and monitor."
+    },
+    {
+        "term": "Formal region (1)", 
+        "definition": "A region that has at least one similar physical or cultural trait that unifies it, often language or religion, with borders that are set and distinct."
+    },
+    {
+        "term": "Fragile States ('Failed States') (4A)", 
+        "definition": "Fragile States ('Failed States') are countries characterized by weak state capacity or weak state legitimacy, leaving them vulnerable to social, economic, and political challenges."
+    },
+    {
+        "term": "Free Trade Agreements (7B)", 
+        "definition": "A free trade agreement or treaty is a multinational agreement according to international law to form a free-trade area between the cooperating states."
+    },
+    {
+        "term": "Free Trade Zones (7B)", 
+        "definition": "A class of special economic zones. It is a geographic area where goods may be imported, stored, handled, manufactured, or reconfigured and re-exported under specific customs regulation and generally not subject to customs duty."
+    },
+    {
+        "term": "Functional region (1)", 
+        "definition": "An area with certain political, economic, or social activity that unifies it, which contains at least one node that is the center of activity and connects it to the market area around it."
+    },
+    {
+        "term": "Functional zonation (6A)", 
+        "definition": "The division of a city into different regions or zones (e.g., residential or industrial) for certain purposes or functions (e.g., housing or manufacturing)."
+    },
+    {
+        "term": "Galactic City Model (6A)", 
+        "definition": "Represents a city with growth independent of the CBD that is traditionally connected to the central city by means of an arterial highway or interstate."
+    },
+    {
+        "term": "Gender Inequality Index (GII) (7A)", 
+        "definition": "A composite metric of gender inequality using three dimensions: reproductive health, empowerment, and the labor market."
+    },
+    {
+        "term": "Gender roles (3A)", 
+        "definition": "Gender roles are different sets of expectations and the corresponding behaviors that a culture considers appropriate for males and females. Gender roles vary over time and space."
+    },
+    {
+        "term": "Genocide (3B)", 
+        "definition": "The mass killing of a group of people in an attempt to eliminate the entire group from existence."
+    },
+    {
+        "term": "Gentrification (6B)", 
+        "definition": "The rehabilitation of deteriorated, often abandoned, housing of low-income inner-city residents."
+    },
+    {
+        "term": "Geographic /Geospatial data (1)", 
+        "definition": "Information having an implicit or explicit association with a location relative to the Earth; which is pretty much anything that humans think, believe, or do."
+    },
+    {
+        "term": "Geographic Information System (GIS) (1)", 
+        "definition": "Software that allows geographers to map, analyze, and model spatial data. The use of thematic layering allows geographers to display the geographic relationships of different geographic characteristics."
+    },
+    {
+        "term": "Geometric boundaries (4B)", 
+        "definition": "Boundaries drawn using grid systems (often based on latitude and longitude)."
+    },
+    {
+        "term": "Gerrymandering (4B)", 
+        "definition": "To divide or arrange (an area) into political units to give special advantages to one group. Gerrymandering occurs as a result of the redistricting processes."
+    },
+    {
+        "term": "Global culture (3A)", 
+        "definition": "Influenced by the diffusion of commodities and ideas, reflects a standardization of certain aspects of culture around the world."
+    },
+    {
+        "term": "Global Positioning System (GPS) (1)", 
+        "definition": "An integrated network of satellites that broadcast location information, in terms of latitude and longitude."
+    },
+    {
+        "term": "Global Supply Chain (5B)", 
+        "definition": "The continuous buying and selling of goods and services; covers all the steps it takes for a product to get from extractor to consumer."
+    },
+    {
+        "term": "Globalization (3A)", 
+        "definition": "Globalization is a term used to describe how trade and technology have made the world into a more connected and interdependent place. Globalization considers the increased interaction and integration among people, companies, and governments worldwide."
+    },
+    {
+        "term": "Gravity Model (6A)", 
+        "definition": "The Gravity Model is a model used to estimate the amount of interaction between two cities. It is based on Newton's universal law of gravitation, which measures the attraction of two objects based on their mass and distance."
+    },
+    {
+        "term": "Gravity Model of Migration (2B)", 
+        "definition": "A mathematical prediction of the interaction of places, the interaction being a function of population size of the respective places and the distance between them."
+    },
+    {
+        "term": "Green Revolution (5A)", 
+        "definition": "The development of higher-yield and fast-growing varieties of rice and other cereals through increased technology, pesticides, and fertilizers in certain developing countries, which led to increased production per unit area to alleviate the problem of food supply in those regions of the globe. It resulted in a dramatic narrowing of the gap between population growth and food needs."
+    },
+    {
+        "term": "Greenbelts (6B)", 
+        "definition": "A ring of land maintained as parks, agriculture, or other types of open space to limit the sprawl of an urban area."
+    },
+    {
+        "term": "Griffin-Ford Model/ Latin American City Model (6A)", 
+        "definition": "Cities in Latin America have often experienced rapid industrialization and population growth since 1950. The core of many cities is a colonial-era center which has recently seen redevelopment, surrounded by much newer urban development."
+    },
+    {
+        "term": "Gross Domestic Product (7A)", 
+        "definition": "The total value of all goods and services produced within a country during a given year."
+    },
+    {
+        "term": "Gross National Income per capita (7A)", 
+        "definition": "Is the total amount of money earned by a nation's people and businesses per person."
+    },
+    {
+        "term": "Gross National Product (7A)", 
+        "definition": "The total value of goods produced and services provided by a country during one year, equal to the gross domestic product plus the net income from foreign investments."
+    },
+    {
+        "term": "Growth Poles (7B)", 
+        "definition": "The concentration of highly innovative and technically advanced industries that stimulate economic development in linked businesses and industries."
+    },
+    {
+        "term": "Guest Workers (2B)", 
+        "definition": "A foreign national who is permitted to live and work temporarily in an industrialized country. Most guest workers perform manual labor."
+    },
+    {
+        "term": "Harris Ullman Multiple Nuclei Model (6A)", 
+        "definition": "Model that cities now grow independent of the central business district."
+    },
+    {
+        "term": "Hearth (3A)", 
+        "definition": "The area (or region) from which innovative ideas, features, and culture originate."
+    },
+    {
+        "term": "Henotheism (3B)", 
+        "definition": "The supreme status and worship of one god while acknowledging that there are other lesser gods that may be worshipped."
+    },
+    {
+        "term": "Hierarchical diffusion (3A)", 
+        "definition": "The spread of a feature, trend, or idea from one person or node of authority (or power) to other persons or places. The feature spreads by passing first among the most connected individuals. Trends can also spread reverse hierarchically, that is from the least connected to the most connected."
+    },
+    {
+        "term": "Hinduism (3B)", 
+        "definition": "Hinduism is the largest ethnic religion and the world’s third largest religion with about 1 billion adherents. Hinduism originated in India before recorded history, has no identifiable founder as the complete origins of Hinduism are unclear. Hinduism consists of many different groups and evolved and diffused outward from India. Hinduism is not centrally organized compared to other religions, and worship and religious practice are up to individuals and specific groups. The principle of reincarnation is the cornerstone of Hinduism. Almost all Hindus live in one country, India, but have large numbers in neighboring countries (Nepal, etc.), North America, Europe, and Asia."
+    },
+    {
+        "term": "Hoyt Sector Model (6A)", 
+        "definition": "Suggests that urban growth extends along transportation routes."
+    },
+    {
+        "term": "Human Development Index (7A)", 
+        "definition": "A statistical composite index of life expectancy, education, and per capita income indicators, which are used to rank countries."
+    },
+    {
+        "term": "Identity (3B)", 
+        "definition": "How we make sense of ourselves, how people see themselves at different scales."
+    },
+    {
+        "term": "Immigration Policies (2B)", 
+        "definition": "Policies and regulations of a state designed specifically to control immigration into that state (in regards to the selection, admission, settlement, and deportation of foreign citizens residing in the country)."
+    },
+    {
+        "term": "Immigration Waves (2B)", 
+        "definition": "Phenomenon whereby different patterns of chain migration build upon one another to create a swell in migration from one origin to the same destination."
+    },
+    {
+        "term": "Imperialism (3A)", 
+        "definition": "The policy, practice, or ideology of extending the power and dominion of a nation especially by direct territorial acquisitions or by gaining indirect control over the political or economic life of other areas."
+    },
+    {
+        "term": "Income Distribution (7A)", 
+        "definition": "How the nation's total income is distributed amongst its population."
+    },
+    {
+        "term": "Indigenous communities (3A)", 
+        "definition": "Communities, peoples, and nations that predate the colonial societies that developed on their territories and that consider themselves distinct from those now prevailing in those territories."
+    },
+    {
+        "term": "Industrialization (7A)", 
+        "definition": "The process of transforming the economy of a nation or region from a focus on agriculture to a reliance on manufacturing."
+    },
+    {
+        "term": "Infant Mortality Rate (IMR) (2A)", 
+        "definition": "The total number of deaths in a year of infants under the age of 1 for every 1000 live births."
+    },
+    {
+        "term": "Infilling (6A)", 
+        "definition": "Infilling occurs where open space presents an economic opportunity for landowners to build small multi-family housing units, placing more people into existing city blocks."
+    },
+    {
+        "term": "Informal economy (7A)", 
+        "definition": "The illegal and uncounted economy that governments do not tax and keep track of."
+    },
+    {
+        "term": "Intensive Farming (5A)", 
+        "definition": "A form of agriculture in which farmers must expend a relatively large amount of effort to produce the maximum possible yield from a parcel of land; labor inputs, machinery, and land size are high in commercial agriculture, while in subsistence agriculture, land size is small with labor inputs high."
+    },
+    {
+        "term": "Inter (ex: International) (2B)", 
+        "definition": "A prefix that means between two groups."
+    },
+    {
+        "term": "Internal Migration (2B)", 
+        "definition": "Human movement within a nation-state, such as ongoing westward and southward movements in the United States."
+    },
+    {
+        "term": "Internally displaced persons (IDPs) (2B)", 
+        "definition": "Someone who is forced to flee his or her home but who remains within his or her country's borders. They are often referred to as refugees, although they do not fall within the legal definitions of a refugee."
+    },
+    {
+        "term": "International Division of Labor (7B)", 
+        "definition": "Transfer of some types of jobs, especially those requiring low-paid, less-skilled workers, from more developed to less developed countries."
+    },
+    {
+        "term": "International Migration (2B)", 
+        "definition": "Human movement involving movement across international boundaries."
+    },
+    {
+        "term": "International Monetary Fund (IMF) (7B)", 
+        "definition": "International organization that promotes global economic growth and financial stability, encourages international trade, and reduces poverty."
+    },
+    {
+        "term": "Intervening obstacles (2B)", 
+        "definition": "An environmental or cultural feature that hinders migration, such as visas, mountains, or lack of money."
+    },
+    {
+        "term": "Intervening Opportunity (2B)", 
+        "definition": "The presence of a nearer opportunity that greatly diminishes the attractiveness of sites farther away."
+    },
+    {
+        "term": "Intra (ex: Intranational) (2B)", 
+        "definition": "A prefix which means within or inside one group."
+    },
+    {
+        "term": "Invasion & Succession (3A)", 
+        "definition": "Process by which new immigrants to a city move to and dominate or take over areas or neighborhoods occupied by older immigrant groups."
+    },
+    {
+        "term": "Irredentism (4A)", 
+        "definition": "Irredentism is a political or popular movement that seeks to reclaim and occupy land that the movement’s members consider to be 'lost.'"
+    },
+    {
+        "term": "Islam (3B)", 
+        "definition": "Islam is the second largest universalizing religion with over 1.5 billion adherents. In Arabic, Islam means 'submitting to the will of God.' Those who practice Islam are Muslims, which means one who surrenders to God. Like Christianity and Judaism, Abraham is an important figure in Islam, but Muslims trace their story through Abraham’s second wife and son, Hagar and Ishmael, not Sarah and Isaac like Christians and Jews. Their prophet is Muhammad. The two main branches of Islam are Sunni and Shiite. The division between the Sunni and Shia originated in a disagreement over leadership after Muhammad’s death in 632 CE. Islam is the predominant religion in the Middle East from North Africa to Central Asia. More than half of the world’s Muslims live in four countries outside the Middle East: Indonesia, Pakistan, Bangladesh, and India."
+    },
+    {
+        "term": "Islands of development (2B)", 
+        "definition": "Place built up by a government or corporation to attract foreign investment and which has relatively high concentrations of paying jobs and infrastructure."
+    },
+    {
+        "term": "Judaism (3B)", 
+        "definition": "Is an ethnic religion that has more than 14 million followers worldwide. There are 6 million Jews in Israel and 5 million in the United States. Two of the main universalizing religions, Christianity and Islam, find some of their roots in Judaism, recognizing Abraham as a Patriarch. Jews are monotheistic, and the Western Wall of the old temple in Jerusalem is one of their most holy sites. The three branches of Judaism are Orthodox, Conservative, and Reformed. Judaism is distributed throughout part of the Middle East and North Africa, the United States, Russia, and Europe."
+    },
+    {
+        "term": "Just-in-time delivery (7B)", 
+        "definition": "Method of inventory management made possible by efficient transportation and communication systems, whereby companies keep on hand just what they need for near-term production, planning what they need for longer-term production will arrive when needed."
+    },
+    {
+        "term": "Kinship Links (2B)", 
+        "definition": "Types of push factors or pull factors that influence a migrant's decision to go where family or friends have already found success."
+    },
+    {
+        "term": "Land use patterns (3A)", 
+        "definition": "The spatial arrangement of economic activities and land use that results from decisions made by individuals, cultural groups, small businesses, multinational corporations, and governments. Land use is often dictated by economic decisions made by humans based on their access to resources, capital, and markets; their decisions often infer that some regions are more advantageous and subsequently, more developed than others."
+    },
+    {
+        "term": "Language (3B)", 
+        "definition": "A set of sounds, combination of sounds, and symbols that are used for communication."
+    },
+    {
+        "term": "Language families (3B)", 
+        "definition": "Group of languages with a shared but fairly distant origin. The most populous language families are Indo-European, Sino-Tibetan, Niger-Congo, and Afro-Asiatic."
+    },
+    {
+        "term": "Least Cost Theory (7A)", 
+        "definition": "Model developed by Weber according to which the location of manufacturing establishments is determined by the minimization of three critical expenses: labor, transportation, and agglomeration."
+    },
+    {
+        "term": "Life expectancy (2A)", 
+        "definition": "The average number of years an individual can expect to live, given current social, economic, and medical conditions."
+    },
+    {
+        "term": "Linear Settlement (5A)", 
+        "definition": "A settlement or group of buildings that is formed in a long line. Many follow a transport route, such as a road, river, or canal through some form due to physical restrictions, such as coastlines, mountains, hills, or valleys."
+    },
+    {
+        "term": "Lingua franca (3B)", 
+        "definition": "A 'common language,' a language used among speakers of different languages for the purposes of trade and commerce."
+    },
+    {
+        "term": "Literacy Rates (7A)", 
+        "definition": "Percentage of the population of a given age group that can read and write."
+    },
+    {
+        "term": "Local Food Movements (5B)", 
+        "definition": "Aim to connect food producers and consumers in the same geographic region, to develop more self-reliant and resilient food networks; improve local economies; or to affect the health, environment, community, or society of a particular place."
+    },
+    {
+        "term": "Long Lot (5A)", 
+        "definition": "Distinct regional approach to land surveying found in the Canadian Maritimes, parts of Quebec, Louisiana, and Texas, whereby land is divided into narrow parcels stretching back from rivers, roads, or canals."
+    },
+    {
+        "term": "Luxury crops (5A)", 
+        "definition": "Non-subsistence crops such as tea, cacao, coffee, and tobacco."
     }
 ]
