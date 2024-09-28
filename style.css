@@ -21,7 +21,7 @@ h1, h2 {
     color: #d19ae2; /* Light purple for headings */
 }
 
-/* Word of the day style */
+/* Word of the Day style */
 .word-of-the-day {
     margin-bottom: 20px;
     background-color: #2b2b2b; /* Background for word of the day */
@@ -30,8 +30,13 @@ h1, h2 {
 }
 
 #dailyWord {
-    font-size: 1.5em;
-    color: #f0f0f0; /* Light grey text */
+    font-size: 1.2em; /* Adjusted font size for term */
+    color: #6a0dad; /* Updated color to your specified purple */
+}
+
+#dailyWord span {
+    font-size: 0.9em; /* Font size for definition */
+    color: #6a0dad; /* Ensures definition text is the same purple */
 }
 
 /* Search section */
