@@ -59,8 +59,6 @@ function displayTerms() {
 }
 
 // Function to load the Word of the Day (for index.html)
-// Function to load the Word of the Day (for index.html)
-// Function to load the Word of the Day (for index.html)
 function loadWordOfTheDay() {
     console.log('Loading Word of the Day...');
     if (terms.length > 0) {
@@ -68,7 +66,10 @@ function loadWordOfTheDay() {
         const wordOfTheDay = terms[randomIndex];
         console.log('Selected word:', wordOfTheDay); // Log the selected word
         document.getElementById('dailyWord').innerHTML = 
-            `<strong style="font-size: 1.5em; color: #6a0dad;">${wordOfTheDay.term}:</strong> <span style="color: #6a0dad; font-size: 0.9em;">${wordOfTheDay.definition}</span>`;
+            `<div class="word-of-the-day">
+                <strong id="dailyWordTerm">${wordOfTheDay.term}:</strong>
+                <span id="dailyWordDefinition">${wordOfTheDay.definition}</span>
+            </div>`;
     } else {
         console.error('No terms available.');
         document.getElementById('dailyWord').textContent = "No terms available.";
